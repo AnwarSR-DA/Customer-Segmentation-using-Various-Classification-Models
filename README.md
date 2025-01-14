@@ -1,4 +1,4 @@
-# Customer Segmentation using Various Classification Models
+# 📊Customer Segmentation using Various Classification Models
 
 ## 🛠️ Project Overview
 
